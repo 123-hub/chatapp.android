@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='androidx.appcompat.app.AppCompatActivity void setSupportActionBar(androidx.appcompat.widget.Toolbar)'>
+        <annotation name='org.jetbrains.annotations.Blocking' />
+    </item>
+</root>
